@@ -7,7 +7,10 @@ The code is part of the publication: coming soon...
 
 ## necessary Python3 packages
 
-* numpy, matplotlib, datetime, time
+* datetime, io, requests (standard packages)
+* numpy, matplotlib
+* geopandas, rasterio
+* xmltodict, tqdm, ipyleaflet
 
 ## files
 
