@@ -51,8 +51,3 @@ print(credentials.ras_user)
 Output:
     your user name
 ``` 
-    
-    
-    
-
-This line of text is not indented. It ends the code block and starts a new paragraph.
