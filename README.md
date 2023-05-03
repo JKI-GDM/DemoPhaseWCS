@@ -19,7 +19,7 @@ This repo shows, how to query the Data Cubes provided by the [JKI](https://www.j
 
 ## credentials
 
-If you have access to restricted data cubes, then it is recommended to creade a `credentials.py` as follows:
+If you have access to restricted data cubes, it is recommended to create a `credentials.py` as follows:
 
 create a file: `credentials.py`
 
