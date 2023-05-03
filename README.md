@@ -1,9 +1,6 @@
 # UseCase_PHASE
 
-This repo shows, how to query the [JKI](https://www.julius-kuehn.de/en/) DataCube.
-
-The code is part of the publication: coming soon...
-
+This repo shows, how to query the Data Cubes provided by the [JKI](https://www.julius-kuehn.de/en/).
 
 ## necessary Python3 packages
 
