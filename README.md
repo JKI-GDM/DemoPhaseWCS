@@ -1,4 +1,4 @@
-# UseCase_PHASE
+# PhaseWCS-example
 
 This repo shows, how to query the Data Cubes provided by the [JKI](https://www.julius-kuehn.de/en/).
 
