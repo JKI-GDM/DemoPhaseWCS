@@ -3,11 +3,11 @@
 This repo shows, how to query the Data Cubes provided by the [JKI](https://www.julius-kuehn.de/en/).
 
 ## necessary Python3 packages
-
+* script was developed with python 3.8
 * datetime, io, requests (standard packages)
 * numpy, matplotlib
 * geopandas, rasterio
-* xmltodict, tqdm, ipyleaflet
+* xmltodict, tqdm, (ipyleaflet)
 
 ## files
 
